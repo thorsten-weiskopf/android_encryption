@@ -1,4 +1,4 @@
-# Service Class for Encrypt and Decrpt Data in Android
+# Service Class for Encrypt and Decrypt Data in Android
 
 Simple Service Class for the use of encryption in your android app. 
 
