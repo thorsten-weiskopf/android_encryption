@@ -2,6 +2,8 @@
 
 Simple Service Class for the use of encryption in your android app. 
 
+Random Encryption For 245 Bytes. (can be used for Auth-Tokens ore maybe an AES Key)
+
 Using Android KeyStore to generate and Store the Random Keys. 
 Use the given Methods for encryption an decryption of a String with 'RSA/ECB/OAEPWithSHA-256AndMGF1Padding'.
 
